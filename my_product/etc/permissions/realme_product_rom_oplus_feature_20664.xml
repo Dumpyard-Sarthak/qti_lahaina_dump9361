@@ -1,0 +1,6 @@
+<oplus-config>
+    <oplus-feature name="oplus.software.readonly_test_b"/>
+    <oplus-feature name="oplus.software.support.gt.mode"/>
+    <!-- LuoChuang@ANDROID.INPUT, 2021/12/04 -->
+    <oplus-feature name="oplus.software.long_press_powerkey_shutdown"/>
+</oplus-config>

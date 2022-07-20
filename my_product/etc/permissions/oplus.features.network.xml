@@ -1,0 +1,22 @@
+<oplus-config>
+    <!-- Wanghui@NETWORK.REG.8745, 2020/07/13, modify for Feature Toggle -->
+    <oplus-feature name="oplus.software.radio.air_interface_detect_support" />
+
+    <!-- WangHui@NETWORK.REG.2678062,2021/12/14,add for ultimate five G -->
+    <oplus-feature name="oplus.software.radio.ultimate_five_g_support" />
+
+    <!-- HuangZihan@NETWORK.REG.26376, 2020/10/17, add for support check sim2 detect status -->
+    <oplus-feature name="oplus.software.radio.sim_detect_check_support" />
+
+    <!-- Xiaolong.Su@NETWORK.REG.313285, 2020/09/30, add for dual 5g Enable-->
+    <oplus-feature name="oplus.software.radio.support_dual_nr"/>
+
+    <!-- AnitaLin@NETWORK.TELE, 2021/01/11, crazyQueryTelephonyChecker -->
+    <oplus-feature name="oplus.software.radio.crazy_query_checker"/>
+
+    <!-- Aniyo.Zhang@NETWORK.DATA.2036468, 2021/08/26, add for isExpCfg-->
+    <oplus-feature name="oplus.software.radio.smart5g_exp_cfg"/>
+
+    <!-- PengHao@NETWORK.DATA.8124, 2020/05/08, Add for network quality evaluation.OPLUS_FEATURE_DATA_EVAL -->
+    <oplus-feature name="oplus.software.radio.data_eval"/>
+</oplus-config>

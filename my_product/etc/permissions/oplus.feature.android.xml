@@ -1,0 +1,19 @@
+<oplus-config>
+    <oplus-feature name="oplus.software.app_resolution_switch" />
+    <!-- Peng.Yizhang@ANDROID.SENSOR, 2020/11/20, add for QCOM Linear motor vibrator -->
+    <oplus-feature name="oplus.software.vibrator_qcom_lmvibrator" />
+    <!-- Peng.Yizhang@ANDROID.SENSOR, 2020/11/20, add end -->
+    <!-- Rui.Fan@ANDROID.SENSOR, 2021/08/09, add for Linear motor vibrator -->
+    <oplus-feature name="oplus.software.vibrator_lmvibrator" />
+    <!-- Rui.Fan@ANDROID.SENSOR, 2021/08/09, add end -->
+    <!-- CaiChunchun@ANDROID.INPUT, 2020/11/25, add for wake up arouse -->
+    <oplus-feature name="oplus.software.wake_up_arouse_support" />
+    <!-- CaiChunchun@ANDROID.INPUT, 2020/11/25, add end -->
+    <!-- CaiChunchun@ANDROID.INPUT, 2021/07/07, add for blackgesture -->
+    <oplus-feature name="oplus.software.gesture_proximitysensor" />
+    <!-- CaiChunchun@ANDROID.INPUT, 2021/07/07, add end -->
+    <!-- Jialin.PI@ROM.Apps, 2019/11/04, add for otg only in SM8350 -->
+    <oplus-feature name="oplus.typecotg.connection.menu.support" />
+    <!-- Jialin.PI@ROM.Apps, 2019/11/04, add end -->
+    <oplus-feature name="oplus.software.long_press_powerkey_shutdown" />
+</oplus-config>

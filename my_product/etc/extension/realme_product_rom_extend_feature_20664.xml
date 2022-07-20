@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+
+    <!-- userid 206625, for Need to add the super multi-screen shortcut switch to the default last page of the control center -->
+    <app_feature name="com.android.systemui.support_onelauncher"/>
+    <!-- indicate if the device is prevented screen nurn -->
+    <app_feature name="com.android.systemui.prevented_screen_burn"/>
+    <!-- indicate if the device will be used dark scrim -->
+    <app_feature name="com.android.systemui.use_dark_scrim"/>
+
+</extend_features>

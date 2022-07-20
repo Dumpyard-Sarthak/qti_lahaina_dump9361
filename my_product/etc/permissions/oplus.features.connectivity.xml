@@ -1,0 +1,6 @@
+<oplus-config>
+
+    <oplus-feature name="oplus.software.wlan.dual_sta" />
+    <oplus-feature name="oplus.software.wlan.dbs" />
+    <oplus-feature name="oplus.software.wlan.wifi6" />
+</oplus-config>

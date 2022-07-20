@@ -1,0 +1,5 @@
+<oplus-config>
+    <!-- Weihao.Guan@GAMEECO, 2021/9/14, Add for pc connect feature start-->
+    <oplus-feature name="oplus.software.pcconnect.support" />
+    <!-- end -->
+</oplus-config>

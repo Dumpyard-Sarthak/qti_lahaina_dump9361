@@ -1,0 +1,5 @@
+<oplus-config>
+    <!-- Rui.Fan@ANDROID.SENSOR, 2021/7/30, add for Fusion Light Support -->
+    <oplus-feature name="oplus.sensor.fusionlight.support" />
+    <!-- Rui.Fan@ANDROID.SENSOR, 2021/7/30, add for Fusion Light Support end. -->
+</oplus-config>
